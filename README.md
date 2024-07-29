@@ -6,5 +6,5 @@ Brickem is a Breakout-style game where you control a paddle to hit a ball and br
 
 ## Features
 - Multiple levels
-- Power-ups
+- Sound
 - High scores
